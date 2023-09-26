@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github link](https://your-solution-url.com)
-- Live Site URL: [Netlify link](https://your-live-site-url.com)
+- Solution URL: [Github link](https://github.com/dnomjr/email_subscribe_soon_JS)
+- Live Site URL: [Netlify link](https://email-subscribe-soon.netlify.app/)
 
 ### Built with
 
